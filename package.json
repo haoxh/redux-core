@@ -1,0 +1,24 @@
+{
+  "name": "redux-core",
+  "version": "1.0.0",
+  "description": "redux react-redux 源码解析注释",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haoxh/redux-core.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "react-redux"
+  ],
+  "author": "haoxh1990@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/haoxh/redux-core/issues"
+  },
+  "homepage": "https://github.com/haoxh/redux-core#readme"
+}
